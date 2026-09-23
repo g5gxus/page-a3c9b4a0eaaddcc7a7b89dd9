@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4529f3c28db5b594daa84377",
+  "owner": "g5gxus",
+  "repo": "page-a3c9b4a0eaaddcc7a7b89dd9",
+  "title": "火箭云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a3c9b4a0eaaddcc7a7b89dd9",
+      "a": "火箭云",
+      "b": "稳定全球clash加速器",
+      "entity": "火箭云",
+      "brand": "火箭云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1e1bcc464400a1ac6dfc958fcc626f921e0dca5b87bdd7d4064c08d4234c0ee0",
+      "content": {
+        "primary_entity": "火箭云",
+        "keyword1": "火箭云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，火箭云提供基础版、旗舰版和团队版三档订阅，覆盖每月100GB到1000GB流量需求，分别支持3台、5台和20台设备同时在线。旗舰版搭载IPLC专线节点，适合游戏对战与高清流媒体；团队版配备VIP高带宽节点，支持企业定制路由。用户可按月或按年付费，按年付最高节省两个月费用。",
+          "AI_HERO_SUBTITLE": "火箭云稳定加速全球网络",
+          "AI_HERO_INTRO": "火箭云是一款面向跨境访问需求的网络加速服务，提供基础版、旗舰版和团队版三档套餐。用户可根据设备数量和流量消耗选择合适的订阅周期，旗舰版以上配置IPLC专线，为游戏和高清视频场景提供稳定连接。",
+          "AI_VISUAL_TITLE": "火箭云全球节点加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖3至20台设备",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "支持月付与年付灵活订阅",
+          "AI_FEATURES_TITLE": "套餐选择与设备适配",
+          "AI_FEATURES_INTRO": "火箭云按流量和在线设备数划分套餐，方便不同规模用户快速匹配。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线，覆盖个人到小型团队。",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度浏览，300GB满足日常高清，1000GB为多设备重度使用预留充足余量。",
+          "AI_FEATURE_TITLE_3": "年付节省两个月费用",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，基础版150元每年，旗舰版350元每年，团队版850元每年。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "火箭云订阅可导入Clash、Shadowrocket、v2rayN等常见客户端，具体兼容性以各客户端版本说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付15元含100GB流量，旗舰版月付35元含300GB流量和IPLC专线，团队版月付85元含1000GB流量和VIP节点。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_GUIDE_INTRO": "从选择套餐到导入订阅，火箭云使用流程清晰直接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量消耗，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统和客户端版本满足火箭云订阅导入的最低要求。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "参照所选客户端的文档，将火箭云订阅地址粘贴到配置界面并保存启用。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_CLOSING_TITLE": "火箭云加速全球访问",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求选定套餐，按客户端文档快速导入订阅。",
+          "AI_FAQ_ANSWER_1": "基础版适合3台设备以内的个人日常使用，每月100GB流量，解锁基础流媒体。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，含IPLC专线，适合对游戏延迟敏感或需要全节点流媒体解锁的用户。",
+          "AI_FAQ_ANSWER_3": "全年流量需求较大时，团队版每月1000GB与20台设备数更匹配，还支持企业定制路由。",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，按所用客户端文档导入配置即可，不同客户端的导入方式略有差异。",
+          "AI_FAQ_ANSWER_5": "月付灵活，年付价格更低，基础版年付150元、旗舰版350元、团队版850元，长期使用可优先考虑年付。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么设备数量的用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版的IPLC专线有什么用？",
+          "AI_FAQ_QUESTION_3": "团队版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_4": "购买后怎么导入订阅？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq61smcy39e2v7b.com",
+    "host": "xn--9kq61smcy39e2v7b.com"
+  },
+  "file_hashes": {
+    "index.html": "f06c218097122d77827195cdd95d8797fa38cc2febc5efbede8bf6c7f243da80",
+    "sitemap.xml": "062351f3f32057fc2058ec2c842004bab0fc0cad3cab784611d3c2c137c433ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f08ffc87a53a30b11aada9a8457438b4d532b284886b8fea24332189e60080c2",
+    "robots.txt": "63ab26fb7af5b5d4ffd08179680eeb7bb70ca8fc55e289db6f8cfcea589e0e3c",
+    "d8d74240426c9fa7636266c72d44d5df.txt": "155b4cce97247d949d3a49dc85b4421d553db4fee976478d45b1a4c6337c510b"
+  },
+  "revision": "1c89162c6ae11e733cb39d7611eefa47f1c84a5b8b9e0488f215656ef4c61917"
+}
